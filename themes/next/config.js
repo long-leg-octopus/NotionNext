@@ -1,7 +1,7 @@
 const CONFIG = {
   NEXT_HOME_BANNER: true, // 首页是否显示大图及标语 [true,false]
   NEXT_HOME_BANNER_STRINGS: [
-    '一个硬件开发，向往草原和远方的牛马',
+    '硬件开发，一个向往草原和远方的牛马',
     'Hi，我是一个打工人',
     'Hi，我是一个干饭人',
     '欢迎来到我的博客🎉'
